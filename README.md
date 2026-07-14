@@ -12,7 +12,7 @@ copy the following files:
 - `beamer/slides.tex.example` -> `beamer/slides.tex`
 - `beamer/info.tex.example` -> `beamer/info.tex`
 
-It is recommended to only change these two files. Otherwise merges may be necessary if updates are pulled from origin.
+It is recommended to only edit these two files. Otherwise merges may be necessary if updates are pulled from origin.
 
 ## required tools 
 
