@@ -44,6 +44,8 @@ This is where you actually write your presentation and put all the slides you wa
 
 ## sources.bib 
 Your biblography file where you can put all of your sources.
+## Handout 
 
+The generated handout is equal in slides and styling to the presentation but without the presentation's animations.
 ## vscode and latex-workshop
 Please note that this tempalte ships a vscode settings file. When using the LaTeX Workshop Extension for VS-Code, saving will automatically use the make file for compiling.
